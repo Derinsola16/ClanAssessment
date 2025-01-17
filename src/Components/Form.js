@@ -63,20 +63,6 @@ const Form = () => {
           <Summary />
         </section>
       );
-
-    // case 5:
-    //   return (
-    //     <section
-    //       className={
-    //         mobile
-    //           ? `${styles.formWrapper} ${styles.mobile}`
-    //           : styles.formWrapper
-    //       }
-    //     >
-    //       <ThankYouPage />
-    //     </section>
-    //   );
-
     default:
       break;
   }

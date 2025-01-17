@@ -28,8 +28,8 @@ const useForm = () => {
           newErrors[field] = "Invalid email address";
         }
       } else if (field === "phone") {
-        if (!/^\d{10}$/.test(value)) {
-          newErrors[field] = "Invalid phone number";
+        if (!/^[0-9]*$/.test(value)) {
+          newErrors[field] = "Should only contain numbers";
         }
       }
     }

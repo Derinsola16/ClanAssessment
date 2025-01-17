@@ -33,7 +33,7 @@ const PersonalInfo = () => {
           type="text"
           id="name"
           label="Name"
-          placeholder="e.g. Martin Scorsese"
+          placeholder="e.g. John Doe"
           value={formData.name}
           onChange={handleChange}
           error={errors.name}
@@ -43,17 +43,17 @@ const PersonalInfo = () => {
           name="email"
           id="email"
           label="Email Address"
-          placeholder="e.g. scorsesemarty@lorem.com"
+          placeholder="e.g. johndoe@mail.com"
           value={formData.email}
           onChange={handleChange}
           error={errors.email}
         />
         <Input
-          type="number"
+          type="tel"
           name="phone"
           id="phone"
           label="Phone Number"
-          placeholder="e.g. +1 234 567 890"
+          placeholder="e.g. 1 234 567 890"
           value={formData.phone}
           onChange={handleChange}
           error={errors.phone}
