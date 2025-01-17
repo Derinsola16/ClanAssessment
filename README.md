@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository](https://github.com/Derinsola16/ClanAssessment)
-- Live Site URL: [Live URL]()
+- Live Site URL: [Live URL](https://Derinsola16.github.io/ClanAssessment)
 
 ## My process
 
