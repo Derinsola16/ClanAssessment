@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ClanAssessment/static/css/main.b3404140.css",
-    "main.js": "/ClanAssessment/static/js/main.3d727300.js",
+    "main.js": "/ClanAssessment/static/js/main.c8fb4c39.js",
     "static/media/bg-sidebar-desktop.svg": "/ClanAssessment/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
     "static/media/bg-sidebar-mobile.svg": "/ClanAssessment/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a.svg",
     "static/media/icon-advanced.svg": "/ClanAssessment/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
@@ -10,10 +10,10 @@
     "static/media/icon-pro.svg": "/ClanAssessment/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
     "static/media/icon-arcade.svg": "/ClanAssessment/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
     "main.b3404140.css.map": "/ClanAssessment/static/css/main.b3404140.css.map",
-    "main.3d727300.js.map": "/ClanAssessment/static/js/main.3d727300.js.map"
+    "main.c8fb4c39.js.map": "/ClanAssessment/static/js/main.c8fb4c39.js.map"
   },
   "entrypoints": [
     "static/css/main.b3404140.css",
-    "static/js/main.3d727300.js"
+    "static/js/main.c8fb4c39.js"
   ]
 }
