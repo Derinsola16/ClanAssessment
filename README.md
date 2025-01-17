@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/gguilhermelopes/front-end-mentor-multi-step-form)
-- Live Site URL: [Live URL](https://gguilhermelopes.github.io/front-end-mentor-multi-step-form/)
+- Solution URL: [Repository](https://github.com/Derinsola16/ClanAssessment)
+- Live Site URL: [Live URL]()
 
 ## My process
 
@@ -44,6 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here]
+- Frontend Mentor - [@yourusername]
+- Twitter - [@yourusername]
